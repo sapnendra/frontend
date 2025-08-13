@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Task 1 After Learning Flexbox - 13th August",
+    "description": "A single-page website using HTML, CSS that showcase my flexbox understanding",
+    "techStack": ["HTML", "CSS"],
+    "image": "images/project1.png",
+    "demoLink": "#",
+    "codeLink": "https://github.com/sapnendra/MERN15/tree/main/Class_10%20-%20Tasks/Task1"
+  },
+  {
+    "title": "Task 2 After Learning Flexbox - 13th August",
+    "description": "A Nike shoe brand card using HTML, CSS that showcase my flexbox understanding",
+    "techStack": ["HTML", "CSS"],
+    "image": "images/project2.png",
+    "demoLink": "#",
+    "codeLink": "https://github.com/sapnendra/MERN15/tree/main/Class_10%20-%20Tasks/Task2"
+  },
+  {
+    "title": "Card - Linear Gradient",
+    "description": "A card that use linear gradient backgroound color for real usecase of linear-gradient - using HTML, CSS.",
+    "techStack": ["HTML", "CSS"],
+    "image": "images/project3.png",
+    "demoLink": "#",
+    "codeLink": "#"
+  }
+]
