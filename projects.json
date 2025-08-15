@@ -22,5 +22,13 @@
     "image": "images/project3.png",
     "demoLink": "#",
     "codeLink": "#"
+  },
+  {
+    "title": "Luminous labs - Landing Page",
+    "description": "A landing page that use flexbox prooperties, color pallete, and more - using HTML, CSS.",
+    "techStack": ["HTML", "CSS"],
+    "image": "images/project4.png",
+    "demoLink": "https://sapnendra.github.io/luminouslabs/",
+    "codeLink": "https://github.com/sapnendra/luminouslabs"
   }
 ]
