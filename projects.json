@@ -38,5 +38,13 @@
     "image": "images/project5.png",
     "demoLink": "https://sapnendra.github.io/filterusers/",
     "codeLink": "https://github.com/sapnendra/filterusers"
+  },
+  {
+    "title": "Hover and Overflow in CSS",
+    "description": "A practice page for to understand hover and overflow css property - using HTML, CSS, JavaScript",
+    "techStack": ["HTML", "CSS"],
+    "image": "images/project6.png",
+    "demoLink": "",
+    "codeLink": ""
   }
 ]
