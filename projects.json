@@ -1,5 +1,21 @@
 [
   {
+    "title": "Search Users by name Add you card too - Javascript replica",
+    "description": "A practice web-app for filtering users by their name that use javascript DOM, and more - using HTML, CSS, JavaScript",
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "image": "images/project5.png",
+    "demoLink": "https://sapnendra.github.io/filterusers/",
+    "codeLink": "https://github.com/sapnendra/filterusers"
+  },
+  {
+    "title": "Clone of landing page of Apple.com",
+    "description": "Landing page of apple.com website using HTML, CSS that showcase my CSS understanding",
+    "techStack": ["HTML", "CSS", "Tailwind"],
+    "image": "images/project7.png",
+    "demoLink": "https://sapnendra.github.io/apple/",
+    "codeLink": "https://github.com/sapnendra/apple"
+  },
+  {
     "title": "Task 1 After Learning Flexbox - 13th August",
     "description": "A single-page website using HTML, CSS that showcase my flexbox understanding",
     "techStack": ["HTML", "CSS"],
@@ -30,14 +46,6 @@
     "image": "images/project4.png",
     "demoLink": "https://sapnendra.github.io/luminouslabs/",
     "codeLink": "https://github.com/sapnendra/luminouslabs"
-  },
-  {
-    "title": "Search Users by name - Javascript replica",
-    "description": "A practice web-app for filtering users by their name that use javascript DOM, and more - using HTML, CSS, JavaScript",
-    "techStack": ["HTML", "CSS", "JavaScript"],
-    "image": "images/project5.png",
-    "demoLink": "https://sapnendra.github.io/filterusers/",
-    "codeLink": "https://github.com/sapnendra/filterusers"
   },
   {
     "title": "Hover and Overflow in CSS",
