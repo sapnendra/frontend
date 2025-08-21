@@ -8,6 +8,14 @@
     "codeLink": "https://github.com/sapnendra/filterusers"
   },
   {
+    "title": "TwoGood.com - An awarded animated website landing page",
+    "description": "A practice website for filtering users by their name that use GSAP, and more - using HTML, CSS, GSAP, JavaScript",
+    "techStack": ["HTML", "CSS", "GSAP", "JavaScript"],
+    "image": "images/project8.png",
+    "demoLink": "https://sapnendra.github.io/twogood/",
+    "codeLink": "https://github.com/sapnendra/twogood"
+  },
+  {
     "title": "Clone of landing page of Apple.com",
     "description": "Landing page of apple.com website using HTML, CSS that showcase my CSS understanding",
     "techStack": ["HTML", "CSS", "Tailwind"],
