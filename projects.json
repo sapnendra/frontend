@@ -1,5 +1,13 @@
 [
   {
+    "title": "Cocacola re-imagine website using GSAP animation",
+    "description": "A practice web-app to test my GSAP animation, scrolltrigger, and more skills.",
+    "techStack": ["HTML", "CSS", "GSAP", "JavaScript"],
+    "image": "images/project9.png",
+    "demoLink": "https://sapnendra.github.io/cocacola/",
+    "codeLink": "https://github.com/sapnendra/cocacola"
+  },
+  {
     "title": "Search Users by name Add you card too - Javascript replica",
     "description": "A practice web-app for filtering users by their name that use javascript DOM, and more - using HTML, CSS, JavaScript",
     "techStack": ["HTML", "CSS", "JavaScript"],
