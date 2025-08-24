@@ -9,7 +9,7 @@
   },
   {
     "title": "Search Users by name Add you card too - Javascript replica",
-    "description": "A practice web-app for filtering users by their name that use javascript DOM, and more - using HTML, CSS, JavaScript",
+    "description": "A practice web-app for filtering users by their name that use javascript DOM, and more",
     "techStack": ["HTML", "CSS", "JavaScript"],
     "image": "images/project5.png",
     "demoLink": "https://sapnendra.github.io/filterusers/",
@@ -17,7 +17,7 @@
   },
   {
     "title": "TwoGood.com - An awarded animated website landing page",
-    "description": "A practice website for filtering users by their name that use GSAP, and more - using HTML, CSS, GSAP, JavaScript",
+    "description": "A practice website for filtering users by their name that use GSAP, and more",
     "techStack": ["HTML", "CSS", "GSAP", "JavaScript"],
     "image": "images/project8.png",
     "demoLink": "https://sapnendra.github.io/twogood/",
@@ -49,7 +49,7 @@
   },
   {
     "title": "Card - Linear Gradient",
-    "description": "A card that use linear gradient backgroound color for real usecase of linear-gradient - using HTML, CSS.",
+    "description": "A card that use linear gradient backgroound color for real usecase of linear-gradient",
     "techStack": ["HTML", "CSS"],
     "image": "images/project3.png",
     "demoLink": "#",
@@ -57,7 +57,7 @@
   },
   {
     "title": "Luminous labs - Landing Page",
-    "description": "A landing page that use flexbox prooperties, color pallete, and more - using HTML, CSS.",
+    "description": "A landing page that use flexbox prooperties, color pallete, and more",
     "techStack": ["HTML", "CSS"],
     "image": "images/project4.png",
     "demoLink": "https://sapnendra.github.io/luminouslabs/",
@@ -65,7 +65,7 @@
   },
   {
     "title": "Hover and Overflow in CSS",
-    "description": "A practice page for to understand hover and overflow css property - using HTML, CSS, JavaScript",
+    "description": "A practice page for to understand hover and overflow css property",
     "techStack": ["HTML", "CSS"],
     "image": "images/project6.png",
     "demoLink": "#",
@@ -73,7 +73,15 @@
   },
   {
     "title": "To Do List JavaScript Understanding",
-    "description": "A practice web-app to learn how DOM works in realworld - using HTML, CSS, JavaScript",
+    "description": "A practice web-app to learn how DOM works in realworld",
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "image": "images/project10.png",
+    "demoLink": "#",
+    "codeLink": "#"
+  },
+  {
+    "title": "Quiz Application",
+    "description": "A simple quiz application that build my logic building skills",
     "techStack": ["HTML", "CSS", "JavaScript"],
     "image": "images/project10.png",
     "demoLink": "#",
