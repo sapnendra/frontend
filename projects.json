@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI Image Generator - Cutting-edge output quality",
+    "description": "A practice Web Application that showcase of how to create an AI image generator with cutting-edge output quality with API's",
+    "techStack": ["HTML", "CSS", "JavaScript", "Public API"],
+    "image": "images/project12.png",
+    "demoLink": "https://sapnendra.github.io/ai-image-generator/",
+    "codeLink": "https://github.com/sapnendra/ai-image-generator"
+  },
+  {
     "title": "Cocacola re-imagine website using GSAP animation",
     "description": "A practice web-app to test my GSAP animation, scrolltrigger, and more skills.",
     "techStack": ["HTML", "CSS", "GSAP", "JavaScript"],
