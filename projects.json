@@ -8,7 +8,7 @@
     "codeLink": "https://github.com/sapnendra/cocacola"
   },
   {
-    "title": "Search Users by name Add you card too - Javascript replica",
+    "title": "Filter Users by name and add your card via form too - Javascript replica",
     "description": "A practice web-app for filtering users by their name that use javascript DOM, and more",
     "techStack": ["HTML", "CSS", "JavaScript"],
     "image": "images/project5.png",
@@ -48,7 +48,7 @@
     "codeLink": "https://github.com/sapnendra/MERN15/tree/main/Class_10%20-%20Tasks/Task2"
   },
   {
-    "title": "Card - Linear Gradient",
+    "title": "Card - Linear Gradient Usecase",
     "description": "A card that use linear gradient backgroound color for real usecase of linear-gradient",
     "techStack": ["HTML", "CSS"],
     "image": "images/project3.png",

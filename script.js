@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     </div>
                     <div class="card-buttons">
                         <a href="${project.demoLink}">Live Demo</a>
-                        <a href="${project.codeLink}" target="_blank">Code</a>
+                        <a href="${project.codeLink}" target="_blank">Source Code</a>
                     </div>
                 </div>
             `;
