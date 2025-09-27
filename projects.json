@@ -8,6 +8,14 @@
     "codeLink": "https://github.com/sapnendra/filterusers"
   },
   {
+    "title": "querySelectorAll - JavaScript implementation",
+    "description": "You will get hands on practice of document.querySelectorAll.",
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "image": "images/project15.png",
+    "demoLink": "#",
+    "codeLink": "#"
+  },
+  {
     "title": "Piano - JS events application",
     "description": "You will get to know how the js events works.",
     "techStack": ["HTML", "CSS", "JavaScript"],
