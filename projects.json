@@ -1,5 +1,29 @@
 [
   {
+    "title": "Filter Users - Javascript DOM",
+    "description": "A practice web-app for filtering users by their name that use javascript DOM, and more",
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "image": "images/project5.png",
+    "demoLink": "https://sapnendra.github.io/filterusers/",
+    "codeLink": "https://github.com/sapnendra/filterusers"
+  },
+  {
+    "title": "Piano - JS events application",
+    "description": "You will get to know how the js events works.",
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "image": "images/project14.png",
+    "demoLink": "https://sapnendra.github.io/piano",
+    "codeLink": "https://github.com/sapnendra/piano"
+  },
+  {
+    "title": "Typing Shooter - JS keyboard events",
+    "description": "An application by using this you can speed up your typing skills, as your score increase the speed of character raining will increase too.",
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "image": "images/project13.png",
+    "demoLink": "https://sapnendra.github.io/typing-shooter",
+    "codeLink": "https://github.com/sapnendra/typing-shooter"
+  },
+  {
     "title": "AI Image Generator - Cutting-edge output quality",
     "description": "A practice Web Application that showcase of how to create an AI image generator with cutting-edge output quality with API's",
     "techStack": ["HTML", "CSS", "JavaScript", "Public API"],
@@ -14,14 +38,6 @@
     "image": "images/project9.png",
     "demoLink": "https://sapnendra.github.io/cocacola/",
     "codeLink": "https://github.com/sapnendra/cocacola"
-  },
-  {
-    "title": "Filter Users by name and add your card via form too - Javascript replica",
-    "description": "A practice web-app for filtering users by their name that use javascript DOM, and more",
-    "techStack": ["HTML", "CSS", "JavaScript"],
-    "image": "images/project5.png",
-    "demoLink": "https://sapnendra.github.io/filterusers/",
-    "codeLink": "https://github.com/sapnendra/filterusers"
   },
   {
     "title": "TwoGood.com - An awarded animated website landing page",
